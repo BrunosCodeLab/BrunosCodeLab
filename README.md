@@ -8,7 +8,7 @@ I have a deep passion for all things tech related, whether it's hardware or soft
 
 Now my primary focus is building software, cracking the code, and ultimately combining both of my academic backgrounds in a professional environment.
 
-To wrap up I will end this section I will copy this part of my LinkedIn section: “You miss 100% of the shots you don't take". So let’s not miss this opportunity to connect and grow our networks!
+To conclude this section, I’ll share a line from my LinkedIn profile: “You miss 100% of the shots you don’t take.”. So let’s not miss this opportunity to connect and grow our networks!
 
 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/bruno-fran%C4%8Di%C5%A1kovi%C4%87-622015278/)!
 
