@@ -24,8 +24,7 @@ To wrap up I will end this section I will copy this part of my LinkedIn section:
 <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Firbase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
 <img align="left" alt="Jira" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
-<img align="left" alt="Sqlite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-<img align="left" alt="R" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>            
+<img align="left" alt="Sqlite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>          
 <img align="left" alt="Photoshop" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
 <img align="left" alt="SketchUp" width="43px" style="padding-right:10px;" src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png"/>
 <img align="left" alt="Mendix" width="50px" style="padding-right:10px;" src="https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png"/><br><br>
