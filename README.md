@@ -51,7 +51,6 @@ When I’m not working, you’ll find me: <br><br>
 🏋️‍♂️ Pushing my limits in the gym. <br>
 🏀 Watching or playing my favorite sports. <br>
 🎬 Live Streaming <br>
-
 </details>
 
 
