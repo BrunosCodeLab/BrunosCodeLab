@@ -23,8 +23,8 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 <img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"/>
 <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
 <img align="left" alt="Firbase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" title="Firebase"/>
+<img align="left" alt="Sqlite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="Sqlite"/>
 <img align="left" alt="Jira" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira"/>
-<img align="left" alt="Sqlite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="Sqlite"/>          
 <img align="left" alt="Photoshop" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop"/>
 <img align="left" alt="SketchUp" width="43px" style="padding-right:10px;" src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" title="SketchUp"/>
 <img align="left" alt="Mendix" width="48px" style="padding-right:10px;" src="https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png" title="Mendix"/><br><br>
