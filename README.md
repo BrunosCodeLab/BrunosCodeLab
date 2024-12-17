@@ -31,7 +31,7 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 
 #
 
-### 🔎 In future I want to learn more about
+### 🚀 In future I want to learn more about
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" title="Java"/>
 <img align="left" alt="Oracle" width="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" title="Oracle"/>
@@ -41,6 +41,13 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 <br><br>
 
 #
+
+### 🔎 Search my [repositories](https://github.com/BrunosCodeLab?tab=repositories) using these keywords:
+
+- **[ML](https://github.com/BrunosCodeLab?tab=repositories&q=ML&type=&language=&sort=)**: Machine Learning Projects
+- **[CV](https://github.com/BrunosCodeLab?tab=repositories&q=ComputerVision&type=&language=&sort=)**: Computer Vision Projects
+- **[NLP](https://github.com/BrunosCodeLab?tab=repositories&q=NLP&type=&language=&sort=)**: Natural Language Processing Projects
+- **[APP](https://github.com/BrunosCodeLab?tab=repositories&q=APP&type=&language=&sort=)**: Applications
 
 <details>
 <summary><h3>🎧 Beyond Code</h3></summary>
