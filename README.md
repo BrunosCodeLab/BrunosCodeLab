@@ -52,10 +52,10 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 <details>
 <summary><h3>🎧 Beyond Code</h3></summary>
 When I’m not working, you’ll find me: <br><br>
-
+  
+🏋️‍♂️ Pushing my limits in the gym. <br>
 📀 Spinning beats as a part time DJ. <br>
 🎣 Fishing for the next big catch. <br>
-🏋️‍♂️ Pushing my limits in the gym. <br>
 🏀 Watching or playing my favorite sports. <br>
 🎬 Live Streaming <br>
 </details>
