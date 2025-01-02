@@ -45,7 +45,7 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 ### 🔎 Search my [repositories](https://github.com/BrunosCodeLab?tab=repositories) using these keywords:
 
 - **[ML](https://github.com/BrunosCodeLab?tab=repositories&q=ML&type=&language=&sort=)**: Machine Learning Projects
-- **[CV](https://github.com/BrunosCodeLab?tab=repositories&q=ComputerVision&type=&language=&sort=)**: Computer Vision Projects
+- **[CV](https://github.com/BrunosCodeLab?tab=repositories&q=CV&type=&language=&sort=)**: Computer Vision Projects
 - **[NLP](https://github.com/BrunosCodeLab?tab=repositories&q=NLP&type=&language=&sort=)**: Natural Language Processing Projects
 - **[APP](https://github.com/BrunosCodeLab?tab=repositories&q=APP&type=&language=&sort=)**: Applications
 
