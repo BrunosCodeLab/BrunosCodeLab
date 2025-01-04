@@ -16,6 +16,7 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 
 ### 🛠️ Languages and Tools I've been exposed to
 
+<div>
 <img align="left" alt="Pyhton" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/>
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
@@ -27,7 +28,15 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 <img align="left" alt="Jira" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira"/>
 <img align="left" alt="Photoshop" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop"/>
 <img align="left" alt="SketchUp" width="43px" style="padding-right:10px;" src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" title="SketchUp"/>
-<img align="left" alt="Mendix" width="48px" style="padding-right:10px;" src="https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png" title="Mendix"/><br><br>
+<img align="left" alt="Mendix" width="48px" style="padding-right:10px;" src="https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png" title="Mendix"/> 
+</div>
+<br><br><br>
+
+<div>
+<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title="HTML5"/>
+<img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" title="CSS3"/>
+</div>
+<br><br>
 
 #
 
@@ -38,6 +47,8 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+<img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="SASS"/>
+          
 <br><br>
 
 #
@@ -48,7 +59,8 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 - **[CV](https://github.com/BrunosCodeLab?tab=repositories&q=CV&type=&language=&sort=)**: Computer Vision Projects
 - **[NLP](https://github.com/BrunosCodeLab?tab=repositories&q=NLP&type=&language=&sort=)**: Natural Language Processing Projects
 - **[APP](https://github.com/BrunosCodeLab?tab=repositories&q=APP&type=&language=&sort=)**: Applications
-
+- **[HTML](https://github.com/BrunosCodeLab?tab=repositories&q=HTML&type=&language=&sort=)**: HTML Projects
+- **[CSS](https://github.com/BrunosCodeLab?tab=repositories&q=CSS&type=&language=&sort=)**: CSS Projects
 <details>
 <summary><h3>🎧 Beyond Code</h3></summary>
 When I’m not working, you’ll find me: <br><br>
