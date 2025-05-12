@@ -47,6 +47,7 @@ To conclude this section, I’ll share a line from my LinkedIn profile: “You m
 <img align="left" alt="Oracle" width="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" title="Oracle"/>
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/>
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="SASS"/>
           
@@ -76,23 +77,3 @@ When I’m not working, you’ll find me: <br><br>
 
           
 
-
-
-
-
-
-
-<!--
-**BrunosCodeLab/BrunosCodeLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
